@@ -11,6 +11,7 @@ This code book describes the variables, the data, and any transformations or wor
 * `activity`, The activity being performed by the subject when the measurements were taken.
 
 activity_id | activity_name 
+--- | --- 
 1 | WALKING
 2 | WALKING_UPSTAIRS
 3 | WALKING_DOWNSTAIRS
